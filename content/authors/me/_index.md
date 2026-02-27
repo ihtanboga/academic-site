@@ -13,12 +13,14 @@ organizations:
     url: \\\"\\\"
 profiles:
   - icon: at-symbol
-    url: mailto:haliltanboga@yahoo.com
+    url: mailto:haliltanboga@gmail.com
     label: E-mail Me
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/
+  - icon: brands/x
+    url: https://x.com/ihtanboga
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/haliltanboga
+    url: https://www.linkedin.com/in/ibrahim-halil-tanboga-md-phd-151950240/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=c8cyQNAAAAAJ&hl=tr
 bio: Professor of Cardiology at Nisantasi University and President of the Digital Cardiology Society. Specializes in interventional cardiology, cardiovascular imaging, and AI applications in cardiology. h-index 43, 318 publications.
 interests:
   - Interventional Cardiology and Coronary Artery Disease

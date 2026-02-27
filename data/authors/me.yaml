@@ -27,12 +27,14 @@ affiliations:
     url: ""
 links:
   - icon: at-symbol
-    url: mailto:haliltanboga@yahoo.com
+    url: mailto:haliltanboga@gmail.com
     label: E-mail Me
+  - icon: brands/x
+    url: https://x.com/ihtanboga
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/haliltanboga
+    url: https://www.linkedin.com/in/ibrahim-halil-tanboga-md-phd-151950240/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=c8cyQNAAAAAJ&hl=tr
 interests:
   - Interventional Cardiology and Coronary Artery Disease
   - Cardiovascular Imaging (IVUS, OCT, Echocardiography)
