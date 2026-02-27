@@ -17,3 +17,6 @@ main:
   - name: Cardiology
     url: /courses/
     weight: 60
+  - name: Projects
+    url: /myprojects/
+    weight: 70
