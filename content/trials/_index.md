@@ -1,0 +1,4 @@
+---
+title: Trials
+view: card
+---

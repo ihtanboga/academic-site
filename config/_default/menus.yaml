@@ -2,8 +2,8 @@ main:
   - name: Main
     url: /
     weight: 10
-  - name: Papers
-    url: /publications/
+  - name: Trials
+    url: /trials/
     weight: 20
   - name: LLM
     url: /events/
