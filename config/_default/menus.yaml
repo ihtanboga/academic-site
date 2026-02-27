@@ -1,22 +1,19 @@
 main:
-  - name: Bio
+  - name: Main
     url: /
     weight: 10
   - name: Papers
     url: /publications/
     weight: 20
-  - name: Talks
+  - name: LLM
     url: /events/
     weight: 30
-  - name: News
+  - name: ML/AI
     url: /blog/
     weight: 40
-  - name: Experience
-    url: /experience/
-    weight: 50
-  - name: Projects
+  - name: Biostatistics
     url: /projects/
-    weight: 60
-  - name: Courses
+    weight: 50
+  - name: Cardiology
     url: /courses/
-    weight: 70
+    weight: 60
