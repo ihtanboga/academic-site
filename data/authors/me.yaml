@@ -2,12 +2,12 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Prof. Dr. Ibrahim Halil Tanboga
+  display: Prof. Ibrahim Halil Tanboga
   given: Ibrahim Halil
   family: Tanboga
   alternate: ""
   pronunciation: ""
-  pronouns: he/him
+  pronouns: ""
 postnominals:
   - MD
   - PhD
@@ -15,14 +15,14 @@ status:
   icon: ""
 role: Prof. of Cardiology | Asst. Prof. of Biostatistics | President, Digital Cardiology Society
 bio: |
-  Prof. Dr. Ibrahim Halil Tanboga is a Professor of Cardiology and Biostatistics
+  Prof. Ibrahim Halil Tanboga is a Professor of Cardiology and Biostatistics
   at Nisantasi University Faculty of Medicine and President of the Digital Cardiology
   Society. His research spans interventional cardiology, cardiovascular imaging, clinical trials, and AI-based digital health applications, with [numerous studies](https://pubmed.ncbi.nlm.nih.gov/?term=tanboga&filter=years.2005-2026&sort=date&size=200).
 affiliations:
   - name: Nisantasi University Faculty of Medicine
     url: ""
-  - name: Hisar Intercontinental Hospital
-    url: ""
+  - name: ItheraAI
+    url: https://www.ithera.ai/
 links:
   - icon: at-symbol
     url: mailto:haliltanboga@gmail.com
@@ -31,6 +31,8 @@ links:
     url: https://x.com/ihtanboga
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ibrahim-halil-tanboga-md-phd-151950240/
+  - icon: brands/substack
+    url: https://metastata.substack.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=c8cyQNAAAAAJ&hl=tr
 interests:
@@ -73,7 +75,7 @@ experience:
       Head of Department of Biostatistics. Teaching and research in biostatistical
       methods, survival analysis, Bayesian statistics, and clinical trial design.
   - role: Interventional Cardiologist
-    org: Hisar Intercontinental Hospital, Istanbul
+    org: ItheraAI, Istanbul
     start: 2016-01-01
     summary: |
       Clinical practice in interventional cardiology and cardiovascular imaging.
