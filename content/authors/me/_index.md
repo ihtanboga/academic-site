@@ -3,7 +3,7 @@ title: Ibrahim Halil Tanboga
 first_name: Ibrahim Halil
 last_name: Tanboga
 status:
-  icon: ❤️
+  icon: ""
 superuser: true
 role: Professor of Cardiology | President, Digital Cardiology Society
 organizations:
@@ -83,4 +83,4 @@ Prof. Dr. Ibrahim Halil Tanboga continues his clinical and academic studies in t
 
 He currently serves as the **President of the Digital Cardiology Society** and as a Faculty Member in the Departments of Cardiology and Biostatistics at Nisantasi University Faculty of Medicine. In addition to his clinical practice at Hisar Intercontinental Hospital, he is actively involved in multicenter randomized clinical trials, observational studies, registry research, and real-world evidence projects.
 
-His academic work focuses on clinical outcome research in cardiology, digital health applications, and artificial intelligence-based approaches in medicine. He has authored [pek cok arastirma](https://pubmed.ncbi.nlm.nih.gov/?term=tanboga&filter=years.2005-2026&sort=date&size=200) yayinlanmistir.
+His academic work focuses on clinical outcome research in cardiology, digital health applications, and artificial intelligence-based approaches in medicine. He has authored [numerous studies](https://pubmed.ncbi.nlm.nih.gov/?term=tanboga&filter=years.2005-2026&sort=date&size=200).
