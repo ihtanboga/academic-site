@@ -1,0 +1,1465 @@
+[
+  {
+    "Stent":"BIOFREEDOM ",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOFREEDOM ",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOFREEDOM ",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOFREEDOM ",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOFREEDOM ",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOFREEDOM ",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOFREEDOM ultra",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":4.76,
+    "Reference":"https:\/\/www.biosensors.com\/intl\/sites\/default\/files\/12161-000-en_32201_ultbro_main_210x297_d28_lr.pdf"
+  },
+  {
+    "Stent":"BIOFREEDOM ultra",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.76,
+    "Reference":"https:\/\/www.biosensors.com\/intl\/sites\/default\/files\/12161-000-en_32201_ultbro_main_210x297_d28_lr.pdf"
+  },
+  {
+    "Stent":"BIOFREEDOM ultra",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.76,
+    "Reference":"https:\/\/www.biosensors.com\/intl\/sites\/default\/files\/12161-000-en_32201_ultbro_main_210x297_d28_lr.pdf"
+  },
+  {
+    "Stent":"BIOFREEDOM ultra",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.76,
+    "Reference":"https:\/\/www.biosensors.com\/intl\/sites\/default\/files\/12161-000-en_32201_ultbro_main_210x297_d28_lr.pdf"
+  },
+  {
+    "Stent":"BIOFREEDOM ultra",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.95,
+    "Reference":"https:\/\/www.biosensors.com\/intl\/sites\/default\/files\/12161-000-en_32201_ultbro_main_210x297_d28_lr.pdf"
+  },
+  {
+    "Stent":"BIOFREEDOM ultra",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.95,
+    "Reference":"https:\/\/www.biosensors.com\/intl\/sites\/default\/files\/12161-000-en_32201_ultbro_main_210x297_d28_lr.pdf"
+  },
+  {
+    "Stent":"BIOMATRIX Alpha",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/programme.europa-organisation.com\/slides\/programme_aict-2018\/LIM_Soo_Teik_20180908_1610_Theatre_2_wmk.pdf"
+  },
+  {
+    "Stent":"BIOMATRIX Alpha",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/programme.europa-organisation.com\/slides\/programme_aict-2018\/LIM_Soo_Teik_20180908_1610_Theatre_2_wmk.pdf"
+  },
+  {
+    "Stent":"BIOMATRIX Alpha",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/programme.europa-organisation.com\/slides\/programme_aict-2018\/LIM_Soo_Teik_20180908_1610_Theatre_2_wmk.pdf"
+  },
+  {
+    "Stent":"BIOMATRIX Alpha",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/programme.europa-organisation.com\/slides\/programme_aict-2018\/LIM_Soo_Teik_20180908_1610_Theatre_2_wmk.pdf"
+  },
+  {
+    "Stent":"BIOMATRIX Alpha",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/programme.europa-organisation.com\/slides\/programme_aict-2018\/LIM_Soo_Teik_20180908_1610_Theatre_2_wmk.pdf"
+  },
+  {
+    "Stent":"BIOMATRIX Alpha",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/programme.europa-organisation.com\/slides\/programme_aict-2018\/LIM_Soo_Teik_20180908_1610_Theatre_2_wmk.pdf"
+  },
+  {
+    "Stent":"BIOMATRIX Neoflex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOMATRIX Neoflex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOMATRIX Neoflex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOMATRIX Neoflex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOMATRIX Neoflex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"BIOMATRIX Neoflex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":"no data",
+    "Reference":"https:\/\/www.biosensors.com\/intl\/hcp-ifu-cardiovascularstent"
+  },
+  {
+    "Stent":"Biomatrix A Chroma",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"http:\/\/dx.doi.org\/10.1016\/j.ijcard.2016.06.097"
+  },
+  {
+    "Stent":"Biomatrix A Chroma",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"http:\/\/dx.doi.org\/10.1016\/j.ijcard.2016.06.097"
+  },
+  {
+    "Stent":"Biomatrix A Chroma",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"http:\/\/dx.doi.org\/10.1016\/j.ijcard.2016.06.097"
+  },
+  {
+    "Stent":"Biomatrix A Chroma",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.5,
+    "Reference":"http:\/\/dx.doi.org\/10.1016\/j.ijcard.2016.06.097"
+  },
+  {
+    "Stent":"Biomatrix A Chroma",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.5,
+    "Reference":"http:\/\/dx.doi.org\/10.1016\/j.ijcard.2016.06.097"
+  },
+  {
+    "Stent":"Biomatrix A Chroma",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.5,
+    "Reference":"http:\/\/dx.doi.org\/10.1016\/j.ijcard.2016.06.097"
+  },
+  {
+    "Stent":"Biomatrix Flex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":4.6,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Biomatrix Flex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.6,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Biomatrix Flex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.6,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Biomatrix Flex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.6,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Biomatrix Flex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.9,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Biomatrix Flex",
+    "Manufacturer":"Biosensor international",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.9,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"GRAFTMASTER",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.8,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/us\/en\/hcp\/products\/percutaneous-coronary-intervention\/graftmaster-rx-coronary-stent-graft-system.html"
+  },
+  {
+    "Stent":"GRAFTMASTER",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/us\/en\/hcp\/products\/percutaneous-coronary-intervention\/graftmaster-rx-coronary-stent-graft-system.html"
+  },
+  {
+    "Stent":"GRAFTMASTER",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/us\/en\/hcp\/products\/percutaneous-coronary-intervention\/graftmaster-rx-coronary-stent-graft-system.html"
+  },
+  {
+    "Stent":"GRAFTMASTER",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/us\/en\/hcp\/products\/percutaneous-coronary-intervention\/graftmaster-rx-coronary-stent-graft-system.html"
+  },
+  {
+    "Stent":"GRAFTMASTER",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.8,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/us\/en\/hcp\/products\/percutaneous-coronary-intervention\/graftmaster-rx-coronary-stent-graft-system.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.0,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx Frontier",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/onyx-frontier-des.html"
+  },
+  {
+    "Stent":"Onyx TruCor",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/cmebg.com\/wp-content\/uploads\/2021\/10\/UC202300458ML-Onyx-TruCor-DES-launch-brochure-print.pdf"
+  },
+  {
+    "Stent":"Onyx TruCor",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/cmebg.com\/wp-content\/uploads\/2021\/10\/UC202300458ML-Onyx-TruCor-DES-launch-brochure-print.pdf"
+  },
+  {
+    "Stent":"Onyx TruCor",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/cmebg.com\/wp-content\/uploads\/2021\/10\/UC202300458ML-Onyx-TruCor-DES-launch-brochure-print.pdf"
+  },
+  {
+    "Stent":"Onyx TruCor",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/cmebg.com\/wp-content\/uploads\/2021\/10\/UC202300458ML-Onyx-TruCor-DES-launch-brochure-print.pdf"
+  },
+  {
+    "Stent":"Onyx TruCor",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/cmebg.com\/wp-content\/uploads\/2021\/10\/UC202300458ML-Onyx-TruCor-DES-launch-brochure-print.pdf"
+  },
+  {
+    "Stent":"Onyx TruCor",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/cmebg.com\/wp-content\/uploads\/2021\/10\/UC202300458ML-Onyx-TruCor-DES-launch-brochure-print.pdf"
+  },
+  {
+    "Stent":"Orsiro",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.biotronik.com\/en-us\/products\/vi\/coronary\/orsiro"
+  },
+  {
+    "Stent":"Orsiro",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.biotronik.com\/en-us\/products\/vi\/coronary\/orsiro"
+  },
+  {
+    "Stent":"Orsiro",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.biotronik.com\/en-us\/products\/vi\/coronary\/orsiro"
+  },
+  {
+    "Stent":"Orsiro",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.biotronik.com\/en-us\/products\/vi\/coronary\/orsiro"
+  },
+  {
+    "Stent":"Orsiro",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.biotronik.com\/en-us\/products\/vi\/coronary\/orsiro"
+  },
+  {
+    "Stent":"Orsiro",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.biotronik.com\/en-us\/products\/vi\/coronary\/orsiro"
+  },
+  {
+    "Stent":"Orsiro Mission",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/us.orsiro.com\/orsiromission"
+  },
+  {
+    "Stent":"Orsiro Mission",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/us.orsiro.com\/orsiromission"
+  },
+  {
+    "Stent":"Orsiro Mission",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/us.orsiro.com\/orsiromission"
+  },
+  {
+    "Stent":"Orsiro Mission",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/us.orsiro.com\/orsiromission"
+  },
+  {
+    "Stent":"Orsiro Mission",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/us.orsiro.com\/orsiromission"
+  },
+  {
+    "Stent":"Orsiro Mission",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/us.orsiro.com\/orsiromission"
+  },
+  {
+    "Stent":"PK Papyrus",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/res.cloudinary.com\/binc\/image\/upload\/product\/pk-papyrus\/PK-Papyrus-Overview.pdf"
+  },
+  {
+    "Stent":"PK Papyrus",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/res.cloudinary.com\/binc\/image\/upload\/product\/pk-papyrus\/PK-Papyrus-Overview.pdf"
+  },
+  {
+    "Stent":"PK Papyrus",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.65,
+    "Reference":"https:\/\/res.cloudinary.com\/binc\/image\/upload\/product\/pk-papyrus\/PK-Papyrus-Overview.pdf"
+  },
+  {
+    "Stent":"PK Papyrus",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.65,
+    "Reference":"https:\/\/res.cloudinary.com\/binc\/image\/upload\/product\/pk-papyrus\/PK-Papyrus-Overview.pdf"
+  },
+  {
+    "Stent":"PK Papyrus",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":5.63,
+    "Reference":"https:\/\/res.cloudinary.com\/binc\/image\/upload\/product\/pk-papyrus\/PK-Papyrus-Overview.pdf"
+  },
+  {
+    "Stent":"PK Papyrus",
+    "Manufacturer":"Biotronik",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":5.63,
+    "Reference":"https:\/\/res.cloudinary.com\/binc\/image\/upload\/product\/pk-papyrus\/PK-Papyrus-Overview.pdf"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.0,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.7,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":5.7,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE Element",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":5.7,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"PROMUSE ELITE",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":2.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"PROMUSE ELITE",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"PROMUSE ELITE",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"PROMUSE ELITE",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"PROMUSE ELITE",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"PROMUSE ELITE",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"PROMUSE PREMIER",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":2.75,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"PROMUSE PREMIER",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"PROMUSE PREMIER",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"PROMUSE PREMIER",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"PROMUSE PREMIER",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"PROMUSE PREMIER",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"Resolute Integrity",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"Resolute Integrity",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"Resolute Integrity",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"Resolute Integrity",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"Resolute Integrity",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"Resolute Integrity",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.0,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Resolute Onyx",
+    "Manufacturer":"Medtronic",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.medtronic.com\/me-en\/healthcare-professionals\/products\/cardiovascular\/stents\/resolute-onyx-des.html"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":2.0,
+    "Overexpansion_limit":3.25,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.25,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"Supraflex Cruz",
+    "Manufacturer":"SMT",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/smtpl.com\/products\/supraflex-cruz"
+  },
+  {
+    "Stent":"SYNERGY",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.4,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"SYNERGY",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"SYNERGY",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"SYNERGY",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"SYNERGY",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"SYNERGY",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-IN\/products\/stents-coronary\/synergy\/synergy-48-mm.html"
+  },
+  {
+    "Stent":"SYNERGY ",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-EU\/products\/stents-coronary\/synergy-stent-system\/synergy\/acute-performance.html"
+  },
+  {
+    "Stent":"SYNERGY ",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-EU\/products\/stents-coronary\/synergy-stent-system\/synergy\/acute-performance.html"
+  },
+  {
+    "Stent":"SYNERGY Megatron",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-US\/products\/stents--coronary\/synergy-megatron.html"
+  },
+  {
+    "Stent":"SYNERGY Megatron",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-US\/products\/stents--coronary\/synergy-megatron.html"
+  },
+  {
+    "Stent":"SYNERGY Megatron",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-US\/products\/stents--coronary\/synergy-megatron.html"
+  },
+  {
+    "Stent":"SYNERGY Megatron",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-US\/products\/stents--coronary\/synergy-megatron.html"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.25,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"SYNERGY Xd",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/content\/dam\/elabeling\/ic\/51181882-01A_SYNERGY%20XD_eIFU_en_US_s.pdf"
+  },
+  {
+    "Stent":"Ultimaster",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"Ultimaster",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"Ultimaster",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"Ultimaster",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.5,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"Ultimaster",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"Ultimaster",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"Ultimaster Nagomi",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":6.25,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster-nagomi%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Nagomi",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":6.25,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster-nagomi%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Nagomi",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":6.25,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster-nagomi%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Tansei",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster%E2%84%A2-tansei%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Tansei",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster%E2%84%A2-tansei%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Tansei",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster%E2%84%A2-tansei%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Tansei",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster%E2%84%A2-tansei%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Tansei",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster%E2%84%A2-tansei%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"Ultimaster Tansei",
+    "Manufacturer":"Terumo",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.terumo-europe.com\/en-emea\/products\/ultimaster%E2%84%A2-tansei%E2%84%A2-sirolimus-eluting-coronary-stent-system"
+  },
+  {
+    "Stent":"XIENCE Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"XIENCE Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"XIENCE Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"XIENCE Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"XIENCE Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.radcliffecardiology.com\/articles\/performing-pci-coronary-bifurcation-lesions-2021#"
+  },
+  {
+    "Stent":"XIENCE Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-US\/products\/stents--coronary\/synergy-megatron.html"
+  },
+  {
+    "Stent":"XIENCE Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.bostonscientific.com\/en-US\/products\/stents--coronary\/synergy-megatron.html"
+  },
+  {
+    "Stent":"XIENCE Xpedition",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.25,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"XIENCE Xpedition",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.25,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"XIENCE Xpedition",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"XIENCE Xpedition",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"XIENCE Xpedition",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"XIENCE Xpedition",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"XIENCE Xpedition",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/bifurc.eu\/wp-content\/uploads\/2020\/05\/IDEALebc2015.pdf"
+  },
+  {
+    "Stent":"Xience Alpine",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.25,
+    "Reference":"https:\/\/www.accessdata.fda.gov\/cdrh_docs\/pdf11\/P110019S115B.pdf"
+  },
+  {
+    "Stent":"Xience Alpine",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.25,
+    "Reference":"https:\/\/www.accessdata.fda.gov\/cdrh_docs\/pdf11\/P110019S115B.pdf"
+  },
+  {
+    "Stent":"Xience Alpine",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.accessdata.fda.gov\/cdrh_docs\/pdf11\/P110019S115B.pdf"
+  },
+  {
+    "Stent":"Xience Alpine",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.accessdata.fda.gov\/cdrh_docs\/pdf11\/P110019S115B.pdf"
+  },
+  {
+    "Stent":"Xience Alpine",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.accessdata.fda.gov\/cdrh_docs\/pdf11\/P110019S115B.pdf"
+  },
+  {
+    "Stent":"Xience Alpine",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.accessdata.fda.gov\/cdrh_docs\/pdf11\/P110019S115B.pdf"
+  },
+  {
+    "Stent":"Xience Alpine",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":4.5,
+    "Reference":"https:\/\/www.accessdata.fda.gov\/cdrh_docs\/pdf11\/P110019S115B.pdf"
+  },
+  {
+    "Stent":"Xience Prime",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":4.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Xience Prime",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Xience Prime",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Xience Prime",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Xience Prime",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.6,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Xience Prime",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.6,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Xience Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-sierra\/treatment-options.html"
+  },
+  {
+    "Stent":"Xience Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-sierra\/treatment-options.html"
+  },
+  {
+    "Stent":"Xience Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-sierra\/treatment-options.html"
+  },
+  {
+    "Stent":"Xience Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-sierra\/treatment-options.html"
+  },
+  {
+    "Stent":"Xience Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-sierra\/treatment-options.html"
+  },
+  {
+    "Stent":"Xience Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-sierra\/treatment-options.html"
+  },
+  {
+    "Stent":"Xience Sierra",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.5,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-sierra\/treatment-options.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.25,
+    "Overexpansion_limit":3.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Xience Skypoint",
+    "Manufacturer":"Abbott",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":5.75,
+    "Reference":"https:\/\/www.cardiovascular.abbott\/int\/en\/hcp\/products\/percutaneous-coronary-intervention\/xience-family\/xience-skypoint\/better-expansion.html"
+  },
+  {
+    "Stent":"Cypher",
+    "Manufacturer":"Cordis",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.7,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Cypher",
+    "Manufacturer":"Cordis",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.7,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Cypher",
+    "Manufacturer":"Cordis",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.7,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Cypher",
+    "Manufacturer":"Cordis",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":5.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":3.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.25,
+    "Overexpansion_limit":4.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":3.4,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.5,
+    "Overexpansion_limit":4.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":2.75,
+    "Overexpansion_limit":4.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.0,
+    "Overexpansion_limit":4.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":3.5,
+    "Overexpansion_limit":4.8,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.0,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":4.5,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  },
+  {
+    "Stent":"Taxus",
+    "Manufacturer":"Boston Scientific\u00a0",
+    "Nominal_diameter":5.0,
+    "Overexpansion_limit":6.0,
+    "Reference":"https:\/\/eurointervention.pcronline.com\/article\/maximal-expansion-capacity-with-current-des-platforms-a-critical-factor-for-stent-selection-in-the-treatment-of-left-main-bifurcations"
+  }
+]
