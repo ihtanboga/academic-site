@@ -20,8 +20,8 @@ publishDate: '2023-11-02T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *American Journal of Cardiology*
-publication_short: *American Journal of Cardiology*
+publication: "*American Journal of Cardiology*"
+publication_short: "*American Journal of Cardiology*"
 
 doi: '10.1016/j.amjcard.2023.10.050'
 

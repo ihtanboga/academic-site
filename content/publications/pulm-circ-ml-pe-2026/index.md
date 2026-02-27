@@ -30,8 +30,8 @@ publishDate: '2026-01-18T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *Pulmonary Circulation*
-publication_short: *Pulmonary Circulation*
+publication: "*Pulmonary Circulation*"
+publication_short: "*Pulmonary Circulation*"
 
 doi: '10.1002/pul2.70243'
 

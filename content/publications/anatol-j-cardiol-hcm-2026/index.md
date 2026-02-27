@@ -28,8 +28,8 @@ publishDate: '2026-02-04T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *Anatolian Journal of Cardiology*
-publication_short: *Anatolian Journal of Cardiology*
+publication: "*Anatolian Journal of Cardiology*"
+publication_short: "*Anatolian Journal of Cardiology*"
 
 doi: '10.14744/AnatolJCardiol.2025.5686'
 

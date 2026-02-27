@@ -19,8 +19,8 @@ publishDate: '2024-12-14T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *Annals of Medicine*
-publication_short: *Annals of Medicine*
+publication: "*Annals of Medicine*"
+publication_short: "*Annals of Medicine*"
 
 doi: '10.1080/07853890.2024.2442536'
 

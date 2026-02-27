@@ -32,8 +32,8 @@ publishDate: '2024-08-22T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *European Radiology*
-publication_short: *European Radiology*
+publication: "*European Radiology*"
+publication_short: "*European Radiology*"
 
 doi: '10.1007/s00330-024-10996-x'
 

@@ -25,8 +25,8 @@ publishDate: '2025-11-10T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *International Journal of Cardiology*
-publication_short: *International Journal of Cardiology*
+publication: "*International Journal of Cardiology*"
+publication_short: "*International Journal of Cardiology*"
 
 doi: '10.1016/j.ijcard.2025.134020'
 

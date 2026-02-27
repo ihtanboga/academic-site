@@ -30,8 +30,8 @@ publishDate: '2024-12-02T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *EuroIntervention*
-publication_short: *EuroIntervention*
+publication: "*EuroIntervention*"
+publication_short: "*EuroIntervention*"
 
 doi: '10.4244/EIJ-D-24-00096'
 

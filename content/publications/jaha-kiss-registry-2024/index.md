@@ -30,8 +30,8 @@ publishDate: '2023-12-29T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *Journal of the American Heart Association*
-publication_short: *Journal of the American Heart Association*
+publication: "*Journal of the American Heart Association*"
+publication_short: "*Journal of the American Heart Association*"
 
 doi: '10.1161/JAHA.123.032262'
 

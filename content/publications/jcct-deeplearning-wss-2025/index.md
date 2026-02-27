@@ -32,8 +32,8 @@ publishDate: '2025-10-14T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *Journal of Cardiovascular Computed Tomography*
-publication_short: *Journal of Cardiovascular Computed Tomography*
+publication: "*Journal of Cardiovascular Computed Tomography*"
+publication_short: "*Journal of Cardiovascular Computed Tomography*"
 
 doi: '10.1016/j.jcct.2025.10.002'
 

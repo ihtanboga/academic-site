@@ -20,8 +20,8 @@ publishDate: '2024-09-11T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *JACC: Cardiovascular Imaging*
-publication_short: *JACC: Cardiovascular Imaging*
+publication: "*JACC: Cardiovascular Imaging*"
+publication_short: "*JACC: Cardiovascular Imaging*"
 
 doi: '10.1016/j.jcmg.2024.07.005'
 

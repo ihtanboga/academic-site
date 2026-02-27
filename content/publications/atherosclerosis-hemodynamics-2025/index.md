@@ -29,8 +29,8 @@ publishDate: '2025-07-08T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *Atherosclerosis*
-publication_short: *Atherosclerosis*
+publication: "*Atherosclerosis*"
+publication_short: "*Atherosclerosis*"
 
 doi: '10.1016/j.atherosclerosis.2025.120423'
 

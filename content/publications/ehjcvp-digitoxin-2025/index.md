@@ -13,8 +13,8 @@ publishDate: '2025-12-16T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *European Heart Journal - Cardiovascular Pharmacotherapy*
-publication_short: *European Heart Journal - Cardiovascular Pharmacotherapy*
+publication: "*European Heart Journal - Cardiovascular Pharmacotherapy*"
+publication_short: "*European Heart Journal - Cardiovascular Pharmacotherapy*"
 
 doi: '10.1093/ehjcvp/pvaf089'
 

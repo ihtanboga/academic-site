@@ -22,8 +22,8 @@ publishDate: '2025-02-20T00:00:00Z'
 publication_types:
   - article-journal
 
-publication: *Catheterization and Cardiovascular Interventions*
-publication_short: *Catheterization and Cardiovascular Interventions*
+publication: "*Catheterization and Cardiovascular Interventions*"
+publication_short: "*Catheterization and Cardiovascular Interventions*"
 
 doi: '10.1002/ccd.31448'
 
