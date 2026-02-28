@@ -1,46 +1,46 @@
-[[$redirects]]
+[[redirects]]
   from = "/events"
   to = "/llm/"
   status = 301
   force = true
 
-[[$redirects]]
+[[redirects]]
   from = "/events/"
   to = "/llm/"
   status = 301
   force = true
 
-[[$redirects]]
+[[redirects]]
   from = "/blog"
   to = "/ml-ai/"
   status = 301
   force = true
 
-[[$redirects]]
+[[redirects]]
   from = "/blog/"
   to = "/ml-ai/"
   status = 301
   force = true
 
-[[$redirects]]
+[[redirects]]
   from = "/projects"
   to = "/biostatistics/"
   status = 301
   force = true
 
-[[$redirects]]
+[[redirects]]
   from = "/projects/"
   to = "/biostatistics/"
   status = 301
   force = true
 
-[[$redirects]]
+[[redirects]]
   from = "/courses"
   to = "/cardiology/"
   status = 301
   force = true
 
-[[$redirects]]
+[[redirects]]
   from = "/courses/"
   to = "/cardiology/"
   status = 301
