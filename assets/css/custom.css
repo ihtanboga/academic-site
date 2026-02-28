@@ -1,0 +1,34 @@
+html,
+body {
+  overflow-x: clip;
+}
+
+img,
+svg,
+video,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+.prose,
+.article-style {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.prose table,
+.article-style table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (max-width: 768px) {
+  .prose h1,
+  .article-style h1 {
+    font-size: 1.75rem;
+    line-height: 1.2;
+  }
+}
