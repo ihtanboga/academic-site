@@ -1,5 +1,6 @@
 ---
 title: Courses
+url: /cardiology/
 summary: My courses
 type: landing
 

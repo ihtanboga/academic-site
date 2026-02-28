@@ -19,7 +19,7 @@ sections:
         gradient_mesh:
           enable: true
       name:
-        size: md
+        size: sm
       avatar:
         size: medium
         shape: circle

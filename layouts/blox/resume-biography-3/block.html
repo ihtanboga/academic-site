@@ -195,11 +195,11 @@
 
           {{/* Name with optional ruby pronunciation */}}
           {{ if and $profile.title $name_pronunciation }}
-            <h1 class="{{ $name_class }} font-black text-gray-900 dark:text-white leading-tight">
+            <h1 class="{{ $name_class }} font-black text-gray-900 dark:text-white leading-tight lg:whitespace-nowrap">
               <ruby class="hb-ruby-name">{{ $profile.title }}<rt>{{ $name_pronunciation }}</rt></ruby>
             </h1>
           {{ else }}
-            <h1 class="{{ $name_class }} font-black text-gray-900 dark:text-white leading-tight">
+            <h1 class="{{ $name_class }} font-black text-gray-900 dark:text-white leading-tight lg:whitespace-nowrap">
               {{ $profile.title }}
             </h1>
           {{ end }}

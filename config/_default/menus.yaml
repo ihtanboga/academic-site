@@ -6,16 +6,16 @@ main:
     url: /trials/
     weight: 20
   - name: LLM
-    url: /events/
+    url: /llm/
     weight: 30
   - name: ML/AI
-    url: /blog/
+    url: /ml-ai/
     weight: 40
   - name: Biostatistics
-    url: /projects/
+    url: /biostatistics/
     weight: 50
   - name: Cardiology
-    url: /courses/
+    url: /cardiology/
     weight: 60
   - name: Projects
     url: /myprojects/
