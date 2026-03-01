@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="tr">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ACT Navigator - Kardiyoloji Girişimlerinde ACT ve Heparin Takibi</title>
+    <title>ACT Navigator - ACT and Heparin Tracking in Cardiology Interventions</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -19,31 +19,31 @@
     <header class="hero">
       <div class="hero-top-row">
         <a class="home-link" href="/">← Ana Site / Home</a>
-        <p class="eyebrow" id="hero-eyebrow">KARDİYOLOJİ ANTİKOAGÜLASYON PANELİ</p>
+        <p class="eyebrow" id="hero-eyebrow">CARDIOLOGY ANTICOAGULATION PANEL</p>
         <label class="lang-control" id="lang-label">
           Dil / Language
           <select id="language-select">
             <option value="tr">TR</option>
-            <option value="en">ENG</option>
+            <option value="en" selected>ENG</option>
           </select>
         </label>
       </div>
 
       <h1>ACT Navigator</h1>
       <p class="subtitle" id="hero-subtitle">
-        Girişimsel kardiyoloji, yapısal kalp girişimleri ve elektrofizyoloji için ACT hedefi,
-        UFH doz başlangıcı ve dinamik takip algoritması.
+        ACT targets, UFH initial dosing and dynamic follow-up algorithm for interventional cardiology,
+        structural interventions and electrophysiology.
       </p>
       <div class="disclaimer" id="hero-disclaimer">
-        Bu uygulama klinik karar desteği amaçlı bir çalışma taslağıdır. Nihai tedavi kararı için kurum protokolü
-        ve sorumlu hekim değerlendirmesi esastır.
+        This app is a clinical decision-support draft. Final treatment decisions must follow institutional protocol
+        and responsible clinician judgment.
       </div>
     </header>
 
     <main class="container">
-      <nav class="top-tabs" aria-label="Ana sekmeler">
-        <button class="top-tab active" data-tab-target="algorithm" type="button" id="tab-derleme">1) ACT Derleme</button>
-        <button class="top-tab" data-tab-target="case" type="button" id="tab-case">2) Vaka Özel Algoritma</button>
+      <nav class="top-tabs" aria-label="Main tabs">
+        <button class="top-tab active" data-tab-target="algorithm" type="button" id="tab-derleme">1) ACT Synthesis</button>
+        <button class="top-tab" data-tab-target="case" type="button" id="tab-case">2) Case-Specific Algorithm</button>
       </nav>
 
       <section class="tab-panel active" id="algorithm" aria-labelledby="ACT Derleme">

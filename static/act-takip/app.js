@@ -1055,7 +1055,7 @@ const placeholderText = {
 };
 
 const state = {
-  language: "tr",
+  language: "en",
   selectedProtocolId: protocols[0].id,
   caseProtocolId: protocols[0].id,
   userSession: {
