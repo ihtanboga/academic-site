@@ -18,22 +18,22 @@
 
   {{/* MAIN CONTENT */}}
   <div class="flex-1 min-w-0">
-    <div class="max-w-prose">
-      <article class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <h1 class="lg:text-6xl">{{ .Title }}</h1>
+    <div class="mb-6">
+      <article class="prose prose-slate dark:prose-invert max-w-none">
+        <h1 class="text-3xl lg:text-5xl">{{ .Title }}</h1>
         {{ .Content }}
       </article>
     </div>
 
-    {{ $view := .Params.view | default "card" }}
+    {{ $view := .Params.view | default "article-grid" }}
     {{ $block := . }}
     {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
     {{ $config := dict
-      "columns" (.Params.columns | default 2)
+      "columns" (.Params.columns | default 4)
       "len" (len $paginator.Pages)
-      "fill_image" (.Params.fill_image | default true)
-      "show_date" (.Params.show_date | default true)
-      "show_read_time" (.Params.show_read_time | default true)
+      "fill_image" (.Params.fill_image | default false)
+      "show_date" (.Params.show_date | default false)
+      "show_read_time" (.Params.show_read_time | default false)
       "show_read_more" (.Params.show_read_more | default true)
     }}
 
@@ -44,7 +44,7 @@
       {{ end }}
     {{ end }}
 
-    <div class="flex flex-col items-center">
+    <div class="w-full">
       {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view "config" $config) }}
       {{ range $index, $item := $paginator.Pages }}
         {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index "config" $config) }}

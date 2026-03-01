@@ -80,6 +80,25 @@ body {
   gap: 12px;
 }
 
+.home-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  color: #f5fcff;
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.home-link:hover {
+  background: rgba(255, 255, 255, 0.22);
+}
+
 .lang-control {
   font-size: 0.78rem;
   font-weight: 600;
@@ -487,6 +506,14 @@ li + li {
 }
 
 @media (max-width: 990px) {
+  .hero-top-row {
+    flex-wrap: wrap;
+  }
+
+  .home-link {
+    order: -1;
+  }
+
   .panel-grid {
     grid-template-columns: 1fr;
   }

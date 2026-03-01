@@ -103,6 +103,26 @@ function App() {
 
   return (
     <div style={{ minHeight: '100vh', padding: isMobile ? '12px' : '24px', maxWidth: '1400px', margin: '0 auto' }}>
+      <div style={{ marginBottom: '10px' }}>
+        <a
+          href="/"
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '6px',
+            padding: '7px 12px',
+            borderRadius: '999px',
+            border: '1px solid #cbd5e1',
+            background: 'rgba(255,255,255,0.9)',
+            color: COLORS.primary,
+            textDecoration: 'none',
+            fontSize: '13px',
+            fontWeight: 700,
+          }}
+        >
+          ← Main Site
+        </a>
+      </div>
 
       {/* Header */}
       <header style={{ background: 'linear-gradient(135deg, ' + COLORS.primary + ' 0%, ' + COLORS.primaryLight + ' 100%)', borderRadius: '16px', padding: isMobile ? '16px 20px' : '24px 32px', marginBottom: '16px', boxShadow: '0 4px 20px rgba(30,58,95,0.3)' }}>
