@@ -32,3 +32,8 @@ iframe {
     line-height: 1.2;
   }
 }
+
+/* Hide the name heading directly under the profile avatar on the homepage bio block. */
+#section-resume-biography-3 .avatar-wrapper + .space-y-3 > h1 {
+  display: none;
+}
