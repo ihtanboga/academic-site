@@ -21,7 +21,7 @@ profiles:
     url: https://www.linkedin.com/in/ibrahim-halil-tanboga-md-phd-151950240/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=c8cyQNAAAAAJ&hl=tr
-bio: Professor of Cardiology at Nisantasi University and President of the Digital Cardiology Society. Specializes in interventional cardiology, cardiovascular imaging, and AI applications in cardiology. h-index 43, 318 publications.
+bio: Prof. Ibrahim Halil Tanboga, MD, PhD is a Professor of Cardiology and Assistant Prof. of Biostatistics at Nisantasi University Faculty of Medicine and President of the Digital Cardiology Society. His research integrates interventional cardiology, cardiovascular imaging, clinical trial methodology, and AI-driven digital health systems. He has authored over 300 peer-reviewed publications indexed in [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=tanboga&filter=years.2005-2026&sort=date&size=200), focusing on translational cardiovascular research, advanced statistical modeling, and AI-augmented clinical decision support.
 interests:
   - Interventional Cardiology and Coronary Artery Disease
   - Cardiovascular Imaging (IVUS, OCT, Echocardiography)
