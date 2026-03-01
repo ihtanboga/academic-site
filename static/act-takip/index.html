@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ACT Navigator - Kardiyoloji Girişimlerinde ACT ve Heparin Takibi</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-orb orb-one"></div>
+    <div class="bg-orb orb-two"></div>
+
+    <header class="hero">
+      <div class="hero-top-row">
+        <p class="eyebrow" id="hero-eyebrow">KARDİYOLOJİ ANTİKOAGÜLASYON PANELİ</p>
+        <label class="lang-control" id="lang-label">
+          Dil / Language
+          <select id="language-select">
+            <option value="tr">TR</option>
+            <option value="en">ENG</option>
+          </select>
+        </label>
+      </div>
+
+      <h1>ACT Navigator</h1>
+      <p class="subtitle" id="hero-subtitle">
+        Girişimsel kardiyoloji, yapısal kalp girişimleri ve elektrofizyoloji için ACT hedefi,
+        UFH doz başlangıcı ve dinamik takip algoritması.
+      </p>
+      <div class="disclaimer" id="hero-disclaimer">
+        Bu uygulama klinik karar desteği amaçlı bir çalışma taslağıdır. Nihai tedavi kararı için kurum protokolü
+        ve sorumlu hekim değerlendirmesi esastır.
+      </div>
+    </header>
+
+    <main class="container">
+      <nav class="top-tabs" aria-label="Ana sekmeler">
+        <button class="top-tab active" data-tab-target="algorithm" type="button" id="tab-derleme">1) ACT Derleme</button>
+        <button class="top-tab" data-tab-target="case" type="button" id="tab-case">2) Vaka Özel Algoritma</button>
+      </nav>
+
+      <section class="tab-panel active" id="algorithm" aria-labelledby="ACT Derleme">
+        <div class="panel-grid">
+          <article class="card controls-card">
+            <h2 id="controls-title">Prosedür ve Parametreler</h2>
+            <div class="control-list">
+              <label id="label-procedure">
+                Prosedür
+                <select id="procedure-select"></select>
+              </label>
+
+              <label id="label-device">
+                ACT cihazı
+                <select id="device-select">
+                  <option value="hemotec">HemoTec / i-STAT</option>
+                  <option value="hemochron">Hemochron</option>
+                </select>
+              </label>
+
+              <label id="label-weight">
+                Hasta kilosu (kg)
+                <input type="number" id="weight-input" min="30" max="250" step="1" placeholder="Örn: 78" />
+              </label>
+
+              <label class="checkbox-line" id="label-doac-line">
+                <input type="checkbox" id="doac-check" />
+                Kesintisiz DOAC altında (özellikle AF ablasyon için heparin ihtiyacı artabilir)
+              </label>
+            </div>
+          </article>
+
+          <article class="card output-card">
+            <h2 id="algorithm-title">Seçilen Prosedür Algoritması</h2>
+            <div class="output-block" id="algorithm-output"></div>
+          </article>
+        </div>
+
+        <article class="card synthesis-card">
+          <h2 id="synthesis-title">ACT Derleme</h2>
+
+          <div class="synthesis-grid">
+            <div class="s-card">
+              <h3 id="syn-common">Ortak Prensipler</h3>
+              <ul>
+                <li id="syn-common-1">UFH, kateter laboratuvarında hızlı titre edilebilir ve protamin ile geri döndürülebilir.</li>
+                <li id="syn-common-2">ACT hedefi prosedür tipi ve kullanılan cihaza göre değişir.</li>
+                <li id="syn-common-3">Hemochron ölçümleri, HemoTec/i-STAT'a göre yaklaşık daha yüksek kabul edilir.</li>
+                <li id="syn-common-4">Uzayan işlemlerde tekrar ACT takibi zorunlu hale gelir.</li>
+              </ul>
+            </div>
+
+            <div class="s-card">
+              <h3 id="syn-pci">Koroner PCI Özeti</h3>
+              <ul>
+                <li id="syn-pci-1">GP IIb/IIIa yoksa: 70-100 U/kg, hedef ACT 250-300 (HemoTec) / 300-350 (Hemochron).</li>
+                <li id="syn-pci-2">GP IIb/IIIa varsa: 50-70 U/kg, hedef ACT 200-250.</li>
+                <li id="syn-pci-3">İlk ACT: bolustan 5-10 dk sonra.</li>
+                <li id="syn-pci-4">Kompleks/uzun PCI: her 20-30 dk ACT yeniden kontrol.</li>
+              </ul>
+            </div>
+
+            <div class="s-card">
+              <h3 id="syn-struct">Yapısal Kalp Özeti</h3>
+              <ul>
+                <li id="syn-struct-1">TAVR/TEER/LAAO'da hedef sıklıkla ACT >=250-300 aralığıdır.</li>
+                <li id="syn-struct-2">Büyük kılıf ve uzun intrakardiyak manipülasyon tromboz riskini artırır.</li>
+                <li id="syn-struct-3">TAVR sonunda ACT rehberli protamin, kanamayı azaltmak için sık kullanılan yaklaşımdır.</li>
+                <li id="syn-struct-4">İşleme özgü protokoller merkezler arasında heterojen olabilir.</li>
+              </ul>
+            </div>
+
+            <div class="s-card">
+              <h3 id="syn-ep">Elektrofizyoloji Özeti</h3>
+              <ul>
+                <li id="syn-ep-1">AF/sol atriyal ablasyonda ana hedef çoğu protokolde ACT >300 saniyedir.</li>
+                <li id="syn-ep-2">DOAC altında hedef ACT'ye ulaşmak için daha yüksek UFH gerekebilir.</li>
+                <li id="syn-ep-3">Sol kalp VT/PVC ablasyonunda ACT tipik olarak >250-350 aralığında tutulur.</li>
+                <li id="syn-ep-4">Saf sağ taraf EP işlemlerinde sistemik heparinizasyon her zaman gerekli değildir.</li>
+              </ul>
+            </div>
+          </div>
+
+          <h3 id="quick-compare-title">Hızlı Karşılaştırma Tablosu</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th id="th-procedure">Prosedür</th>
+                  <th id="th-target">Hedef ACT</th>
+                  <th id="th-dose">Başlangıç UFH</th>
+                  <th id="th-first">İlk Kontrol</th>
+                  <th id="th-follow">Hedefte İzlem</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td id="row-pci-1">Standart PCI (GP yok)</td>
+                  <td id="row-pci-1-c2">250-300 (HemoTec) / 300-350 (Hemochron)</td>
+                  <td id="row-pci-1-c3">70-100 U/kg</td>
+                  <td id="row-pci-1-c4">5-10 dk</td>
+                  <td id="row-pci-1-c5">20-30 dk (uzun işlem)</td>
+                </tr>
+                <tr>
+                  <td id="row-pci-2">PCI + GP IIb/IIIa</td>
+                  <td id="row-pci-2-c2">200-250</td>
+                  <td id="row-pci-2-c3">50-70 U/kg</td>
+                  <td id="row-pci-2-c4">5-10 dk</td>
+                  <td id="row-pci-2-c5">20-30 dk</td>
+                </tr>
+                <tr>
+                  <td id="row-pci-3">CTO / Kompleks PCI</td>
+                  <td id="row-pci-3-c2">>300 (retrograd >350)</td>
+                  <td id="row-pci-3-c3">~100 U/kg + ek boluslar</td>
+                  <td id="row-pci-3-c4">5-10 dk</td>
+                  <td id="row-pci-3-c5">20-30 dk</td>
+                </tr>
+                <tr>
+                  <td id="row-tavr">TAVR</td>
+                  <td id="row-tavr-c2">250-300 (en az >250)</td>
+                  <td id="row-tavr-c3">50-100 U/kg (merkez protokolüne göre)</td>
+                  <td id="row-tavr-c4">5-10 dk</td>
+                  <td id="row-tavr-c5">15-30 dk</td>
+                </tr>
+                <tr>
+                  <td id="row-ep">AF Ablasyon</td>
+                  <td id="row-ep-c2">>300 (çoğu merkez 300-350/400)</td>
+                  <td id="row-ep-c3">100-130 U/kg</td>
+                  <td id="row-ep-c4">10-15 dk</td>
+                  <td id="row-ep-c5">15-30 dk</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </article>
+      </section>
+
+      <section class="tab-panel" id="case" aria-labelledby="Vaka Özel Algoritma">
+        <article class="card">
+          <h2 id="case-title">Vaka Özel Algoritma</h2>
+          <p id="case-desc">
+            Adım adım ilerler: önce endikasyon seçilir, hedef ACT otomatik belirlenir, UFH bolusu uygulanır, 5-10 dk
+            sonrası ACT girilir ve sisteme göre bir sonraki yorum/öneri otomatik üretilir.
+          </p>
+
+          <div class="case-auth-grid">
+            <div class="kpi">
+              <h4 id="login-title">Opsiyonel Kullanıcı Girişi</h4>
+              <label id="login-user-label">
+                Kullanıcı adı
+                <input type="text" id="login-user-input" placeholder="Doktor kullanıcı adı" />
+              </label>
+              <label id="login-pass-label">
+                Şifre
+                <input type="password" id="login-pass-input" placeholder="Şifre" />
+              </label>
+              <div class="case-actions">
+                <button class="subtab" type="button" id="case-login-btn">Login (Opsiyonel)</button>
+                <button class="subtab" type="button" id="case-logout-btn">Çıkış</button>
+              </div>
+              <p class="case-hint" id="case-login-status">Giriş yapmadan da kullanabilirsin.</p>
+            </div>
+
+            <div class="kpi">
+              <h4 id="patient-title">Opsiyonel Hasta Bilgisi</h4>
+              <label id="patient-id-label">
+                Hasta ID
+                <input type="text" id="case-patient-id-input" placeholder="Örn: ACT-2026-001" />
+              </label>
+              <label id="patient-name-label">
+                Hasta adı/etiketi
+                <input type="text" id="case-patient-name-input" placeholder="Örn: Hasta A" />
+              </label>
+              <p class="case-hint" id="patient-hint">Bu alanlar boş bırakılabilir; CSV'ye otomatik eklenir.</p>
+            </div>
+          </div>
+
+          <div class="case-step-grid">
+            <div class="kpi case-step-card">
+              <h4 id="case-step1-title">1) Endikasyon Seçimi</h4>
+              <label id="case-indication-label">
+                Endikasyon / Prosedür
+                <select id="case-indication-select"></select>
+              </label>
+              <label class="case-weight-label" id="case-weight-label">
+                Hasta kilosu (kg)
+                <input type="number" id="case-weight-input" min="30" max="250" step="1" placeholder="Örn: 82" />
+              </label>
+            </div>
+
+            <div class="kpi case-step-card">
+              <h4 id="case-step2-title">2) Otomatik Başlangıç Planı</h4>
+              <div id="case-initial-plan" class="timeline"></div>
+            </div>
+
+            <div class="kpi case-step-card case-step-wide">
+              <h4 id="case-step3-title">3) 5-10 dk Sonrası ACT</h4>
+              <label id="case-act-label">
+                İlk ACT değeri (sn)
+                <input type="number" id="case-act-input" min="50" max="700" step="1" placeholder="Örn: 235" />
+              </label>
+              <label id="case-datetime-label">
+                Ölçüm tarihi/saati
+                <input type="datetime-local" id="case-datetime-input" />
+              </label>
+              <div class="case-actions">
+                <button class="subtab active" type="button" id="case-save-step-btn">ACT Adımını Kaydet</button>
+                <button class="subtab" type="button" id="case-reset-btn">Vakayı Sıfırla</button>
+              </div>
+              <p class="case-hint" id="case-hint">ACT kutusunu boş bırakabilir, ölçüm geldikçe değeri yazabilirsin. İlk kayıtla başlangıç bolusu otomatik loglanır.</p>
+              <p class="case-hint" id="case-feedback"></p>
+            </div>
+          </div>
+
+          <div class="output-block case-output" id="case-output"></div>
+
+          <div id="case-extra-dose-block" class="kpi hidden">
+            <h4 id="extra-dose-title">Uygulanan Ek UFH dozu (sadece hedef dışı ACT için)</h4>
+            <label id="extra-dose-label">
+              Uygulanan ek UFH dozu (U)
+              <input type="text" id="case-dose-input" placeholder="Örn: 3000" />
+            </label>
+            <div class="case-actions">
+              <button class="subtab active" type="button" id="case-save-dose-btn">Bu Adımı Kaydet</button>
+            </div>
+          </div>
+
+          <div class="kpi case-log-wrap">
+            <h4 id="case-log-title">Vaka Günlüğü (Tarih - Doz - ACT)</h4>
+            <div class="case-actions">
+              <button class="subtab" type="button" id="case-csv-download-btn">CSV İndir</button>
+              <button class="subtab" type="button" id="case-csv-preview-btn">CSV Görüntüle</button>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="log-th-date">Tarih/Saat</th>
+                    <th id="log-th-user">Kullanıcı</th>
+                    <th id="log-th-patient">Hasta</th>
+                    <th id="log-th-step">Adım</th>
+                    <th id="log-th-act">ACT (sn)</th>
+                    <th id="log-th-dose">Doz (U)</th>
+                    <th id="log-th-action">Yorum/Aksiyon</th>
+                    <th id="log-th-next">Sonraki ACT</th>
+                  </tr>
+                </thead>
+                <tbody id="case-log-body"></tbody>
+              </table>
+            </div>
+            <pre id="case-csv-preview" class="case-csv-preview hidden"></pre>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="footer-note" id="footer-note">ACT Navigator v1.0 | Klinik kullanım öncesi kurum protokolü ile doğrulayın.</footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
